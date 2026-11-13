@@ -1,0 +1,12 @@
+{
+  "name": "express-minikube-app",
+  "version": "1.0.0",
+  "description": "Simple static website using Express and Minikube",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
